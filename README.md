@@ -5,9 +5,11 @@
 ------------------------------------------------------------------------------------
 
 SUMMARY
+
 Passionate Software Professional with expertise in interactive software development, multimedia production, and IT. Skilled in software development, website and media development, video/special effects production, event A/V, and hardware installation. Experienced in leveraging AWS as an environment and proficient in using Node.js to develop scalable applications.
 
 PRIMARY EXPERIENCE
+
 Implementation Specialist | Square 9 Softworks | Dec 2021 - Present
 - Collaborated with clients to gather requirements and customize Square 9 Softworks solutions.
 - Developed and configured JavaScript and HTML for form products, ensuring seamless integration.
@@ -42,9 +44,11 @@ Team 2 Tech Supervisor | CEC Entertainment (Chuck E. Cheese) | Aug 2005 - May 20
 - Performed small-scale soldering and software diagnostics.
 
 EDUCATION
+
 Bachelor's Degree, English / Film | University of Connecticut | 2007 - 2011
 
 SKILLS
+
 - Programming Languages: C++, C#, Python, JavaScript
 - Interactive Software Development: Unity, Unreal Engine
 - Web Development: HTML, CSS, JavaScript
@@ -57,6 +61,7 @@ SKILLS
 - Excellent Communication and Collaboration Skills
 
 CERTIFICATIONS
+
 - An Introduction to Interactive Programming in Python - Coursera
 - Duolingo French Fluency: Intermediate (Estimated) - Duolingo
 - Introduction to C# Programming and Unity - Coursera
