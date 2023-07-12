@@ -8,6 +8,7 @@ SUMMARY
 
 Passionate Software Professional with expertise in interactive software development, multimedia production, and IT. Skilled in software development, website and media development, video/special effects production, event A/V, and hardware installation. Experienced in leveraging AWS as an environment and proficient in using Node.js to develop scalable applications.
 
+
 PRIMARY EXPERIENCE
 
 Implementation Specialist | Square 9 Softworks | Dec 2021 - Present
@@ -27,6 +28,7 @@ Multimedia Production/Digital Projectionist | Connecticut Science Center | Jul 2
 - Managed A/V operations for events, filming projects, and video editing.
 - Utilized 3D modeling and Chroma Key for special effects using Adobe After Effects, Premiere, and Blender.
 
+
 OTHER EXPERIENCE
 
 Owner / Performer | Odd Frog Events LLC | Aug 2022 - Present
@@ -43,9 +45,11 @@ Team 2 Tech Supervisor | CEC Entertainment (Chuck E. Cheese) | Aug 2005 - May 20
 - Maintained and repaired games, animatronics, and register hoppers.
 - Performed small-scale soldering and software diagnostics.
 
+
 EDUCATION
 
 Bachelor's Degree, English / Film | University of Connecticut | 2007 - 2011
+
 
 SKILLS
 
@@ -59,6 +63,7 @@ SKILLS
 - Hardware Installation: A/V Setup and Maintenance
 - Problem-solving and Troubleshooting
 - Excellent Communication and Collaboration Skills
+
 
 CERTIFICATIONS
 
